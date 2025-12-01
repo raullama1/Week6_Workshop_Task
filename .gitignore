@@ -1,46 +1,5 @@
-#############################
-# OS / Editor Specific
-#############################
-
-# macOS
-.DS_Store
-
-# VS Code
-.vscode/
-*.code-workspace
-
-# JetBrains Rider
 .idea/
-
-#############################
-# .NET / C# build folders
-#############################
-
-# Build results
+.vs/
 bin/
 obj/
-
-# Rider / VS settings
-*.user
-*.suo
-*.userprefs
-*.csproj.user
-
-# Logs
-*.log
-
-#############################
-# Misc
-#############################
-
-# Compiled binary files
-*.dll
-*.exe
-*.pdb
-
-# NuGet packages
-*.nupkg
-packages/
-
-# Temp files
-*.tmp
+.DS_Store
